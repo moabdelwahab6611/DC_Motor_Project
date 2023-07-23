@@ -1,7 +1,7 @@
 # DC Motor Project
 
 ### Description :
-Project in c programming language to use DC Motor by making two DC Motors turn left and right.
+Project in c programming language to use DC Motor by making two DC Motors rotate left and right.
 
 ### Requirements :
 To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, PIC18F4620 8-Bit Micro-conroller, pickit3, and 2 DC Motors.
